@@ -6,7 +6,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  *  @ORM\Entity
  */
-class Employee extends PersonBase{
+class Person extends PersonBase{
     
      /**
      * @ORM\Column(type="integer")
