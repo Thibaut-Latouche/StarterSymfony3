@@ -1,0 +1,6 @@
+3f74aa,::1,GET,http://localhost/sf3/web/app_dev.php/,1499454593,2c92a3,200
+2c92a3,::1,GET,http://localhost/sf3/web/app_dev.php/,1499454593,,500
+c53dc0,::1,GET,http://localhost/sf3/web/app_dev.php/,1499454639,,200
+a04ac3,::1,GET,http://localhost/sf3/web/app_dev.php/,1499454640,,200
+a832ca,127.0.0.1,GET,http://localhost:8000/,1499531834,,200
+a06bbf,127.0.0.1,GET,http://localhost:8000/,1499533243,,200
